@@ -1,0 +1,12 @@
+node_modules/
+build/
+artifacts/
+cache/
+
+/.idea/
+
+*.iml
+
+*.DS_Store
+coverage/
+coverage.json
