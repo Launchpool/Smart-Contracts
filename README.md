@@ -4,6 +4,8 @@
 
 * LaunchPoolToken: ERC20 Token
 * LaunchPoolStaking: Staking rewards
+* LaunchPoolStakingWithGuild: Staking rewards with guild bank
+* Guild: Guild bank
 
 ## Audit
 
